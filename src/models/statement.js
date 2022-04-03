@@ -1,0 +1,2 @@
+
+export const SQL_USERS_SELECT_ALL = 'SELECT * FROM USERS'

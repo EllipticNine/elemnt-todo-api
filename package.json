@@ -1,0 +1,19 @@
+{
+  "name": "element-todo-api",
+  "version": "1.0.0",
+  "description": "api for element-todo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/config/www.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "node-gyp": "^9.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
